@@ -1,2 +1,3 @@
 room_number,room_type,price_per_night,status
 113,double,120.0,available
+103,suite,120.03,available
